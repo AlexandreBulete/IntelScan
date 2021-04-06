@@ -1,0 +1,7 @@
+/data
+/vendor
+/etc
+/project
+/trash
+.DS_Store
+index.php

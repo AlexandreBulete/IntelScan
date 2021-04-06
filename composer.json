@@ -1,0 +1,36 @@
+{
+    "name": "walkerspider/intelscan",
+    "description": "An intelligent package to scan directories or databases and realize actions easly.",
+    "keywords": [
+        "Walker", "Spider", "Walker Spider", "scan", "intel", "intelligent", "intelscan", "database", "directory", "directories"
+    ],
+    "type": "library",
+    "minimum-stability": "dev",
+    "homepage": "https://walkerspider.com/packages/intelscan",
+    "authors": [
+        {
+            "name": "Alexandre Buleté",
+            "email": "bulete.alexandre@gmail.com",
+            "homepage": "https://walkerspider.com",
+            "role": "Lead Developer"
+        }
+    ],
+    "support": {
+        "email": "bulete.alexandre@gmail.com",
+        "docs": "https://walkerspider.com/packages/intelscan"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WalkerSpider\\IntelScan\\": "src/"
+        }
+    },
+    "funding": [
+        {
+            "type": "other",
+            "url": "https://walkerspider.com/faire-un-don"
+        }
+    ]
+}
